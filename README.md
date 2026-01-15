@@ -2,6 +2,8 @@
 
 GEDfetch is a Windows desktop application that simplifies retrieving and exporting genetic match data from GEDmatch.
 
+![GEDfetch Screenshot](GEDfetch_ozcFHL7K2E.png)
+
 ## Features
 
 - Secure login to GEDmatch
