@@ -2,7 +2,7 @@
 
 GEDfetch is a Windows desktop application that simplifies retrieving and exporting genetic match data from GEDmatch.
 
-![GEDfetch Screenshot](GEDfetch_hxOoZOoKa6.png)
+![GEDfetch Screenshot](GEDfetch_i3S3Ecueff.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ GEDfetch is a Windows desktop application that simplifies retrieving and exporti
 4. Click "Fetch Matches" to retrieve your one-to-many matches.
 5. Select the matches you want to process for admixture data by checking the boxes.
 6. Choose an admixture calculator (e.g., Eurogenes K15 or Eurogenes K13) and click "Fetch Data" to retrieve admixture results.
-7. Choose a save location for the CSV file when prompted.
+7. Once processing is complete, click the "Save Data" button to export the results to a CSV file.
 
 ## Requirements
 
