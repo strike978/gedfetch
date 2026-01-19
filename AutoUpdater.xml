@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.0.5</version>
-    <url>https://github.com/strike978/gedfetch/releases/download/v0.0.5/gedfetch-v0.0.5-win64.exe</url>
-    <changelog>https://github.com/strike978/gedfetch/releases/tag/v0.0.5</changelog>
+    <version>0.0.6</version>
+    <url>https://github.com/strike978/gedfetch/releases/download/v0.0.6/gedfetch-v0.0.6-win64.exe</url>
+    <changelog>https://github.com/strike978/gedfetch/releases/tag/v0.0.6</changelog>
     <mandatory>false</mandatory>
 </item>
